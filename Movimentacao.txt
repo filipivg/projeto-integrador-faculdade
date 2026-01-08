@@ -1,0 +1,56 @@
+1  |  1  |  1  |  ABC-1001  |  Combustível  |  Abastecimento  |  5  |  1  |  2024  |  250.0
+2  |  2  |  2  |  ABC-1002  |  Manutenção  |  Troca de óleo  |  10  |  1  |  2024  |  180.0
+3  |  3  |  3  |  ABC-1003  |  Seguro  |  Seguro anual  |  12  |  1  |  2024  |  1200.0
+4  |  4  |  4  |  ABC-1004  |  IPVA  |  IPVA do Ano  |  15  |  1  |  2024  |  50.0
+5  |  5  |  5  |  ABC-1005  |  Multas  |  Excesso de velocidade  |  18  |  1  |  2024  |  293.47
+6  |  6  |  6  |  ABC-1006  |  Estacionamento  |  Estacionamento rotativo  |  20  |  1  |  2024  |  15.0
+7  |  7  |  7  |  ABC-1007  |  Pedágio  |  Tarifa rodoviária  |  22  |  1  |  2024  |  9.8
+8  |  8  |  8  |  ABC-1008  |  Combustível  |  Gasolina comum  |  25  |  1  |  2024  |  200.0
+9  |  9  |  9  |  ABC-1009  |  Manutenção  |  Troca de pastilhas de freio  |  1  |  2  |  2024  |  350.0
+10  |  10  |  10  |  ABC-1010  |  Seguro  |  Renovação de apólice  |  3  |  2  |  2024  |  980.0
+11  |  11  |  11  |  ABC-1011  |  IPVA  |  IPVA do Ano  |  5  |  2  |  2024  |  40.0
+12  |  12  |  12  |  ABC-1012  |  Multas  |  Estacionamento proibido  |  7  |  2  |  2024  |  195.23
+13  |  13  |  13  |  ABC-1013  |  Estacionamento  |  Zona azul  |  9  |  2  |  2024  |  8.0
+14  |  14  |  14  |  ABC-1014  |  Pedágio  |  Pedágio estadual  |  11  |  2  |  2024  |  11.4
+15  |  15  |  15  |  ABC-1015  |  Combustível  |  Etanol  |  13  |  2  |  2024  |  180.0
+16  |  16  |  16  |  ABC-1016  |  Manutenção  |  Troca de bateria  |  15  |  2  |  2024  |  420.0
+17  |  17  |  17  |  ABC-1017  |  Seguro  |  Cobertura total  |  17  |  2  |  2024  |  1500.0
+18  |  18  |  18  |  ABC-1018  |  IPVA  |  IPVA do Ano  |  19  |  2  |  2024  |  70.0
+19  |  19  |  19  |  ABC-1019  |  Multas  |  Avanço de sinal  |  21  |  2  |  2024  |  300.0
+20  |  20  |  20  |  ABC-1020  |  Estacionamento  |  Estacionamento privado  |  23  |  2  |  2024  |  25.0
+21  |  21  |  21  |  ABC-1001  |  Combustível  |  Abastecimento  |  25  |  2  |  2024  |  180.0
+22  |  22  |  22  |  ABC-1002  |  Manutenção  |  Troca de óleo  |  26  |  2  |  2024  |  220.0
+23  |  23  |  23  |  ABC-1003  |  Seguro  |  Seguro anual  |  1  |  3  |  2024  |  1200.0
+24  |  24  |  24  |  ABC-1004  |  IPVA  |  IPVA do Ano  |  3  |  3  |  2024  |  60.0
+25  |  25  |  25  |  ABC-1005  |  Multas  |  Excesso de velocidade  |  5  |  3  |  2024  |  293.47
+26  |  26  |  26  |  ABC-1001  |  Combustível  |  Abastecimento  |  7  |  3  |  2024  |  210.0
+27  |  27  |  27  |  ABC-1002  |  Manutenção  |  Troca de óleo  |  10  |  3  |  2024  |  190.0
+28  |  28  |  28  |  ABC-1010  |  Seguro  |  Renovação de apólice  |  12  |  3  |  2024  |  980.0
+29  |  29  |  29  |  ABC-1010  |  Seguro  |  Renovação de apólice  |  13  |  3  |  2024  |  980.0
+30  |  30  |  30  |  ABC-1015  |  Combustível  |  Etanol  |  15  |  3  |  2024  |  150.0
+31  |  31  |  31  |  ABC-1015  |  Combustível  |  Etanol  |  18  |  3  |  2024  |  170.0
+32  |  32  |  32  |  ABC-1020  |  Estacionamento  |  Estacionamento privado  |  20  |  3  |  2024  |  30.0
+33  |  33  |  33  |  ABC-1020  |  Estacionamento  |  Estacionamento privado  |  21  |  3  |  2024  |  25.0
+34  |  34  |  34  |  ABC-1025  |  IPVA  |  IPVA do Ano  |  23  |  3  |  2024  |  45.0
+35  |  35  |  35  |  ABC-1025  |  IPVA  |  IPVA do Ano  |  24  |  3  |  2024  |  50.0
+36  |  36  |  36  |  ABC-1030  |  Manutenção  |  Troca de filtros  |  2  |  4  |  2024  |  200.0
+37  |  37  |  37  |  ABC-1031  |  Seguro  |  Assistência 24h  |  5  |  4  |  2024  |  850.0
+38  |  38  |  38  |  ABC-1031  |  Seguro  |  Assistência 24h  |  6  |  4  |  2024  |  850.0
+39  |  39  |  39  |  ABC-1035  |  Pedágio  |  Concessionária  |  8  |  4  |  2024  |  12.0
+40  |  40  |  40  |  ABC-1035  |  Pedágio  |  Concessionária  |  9  |  4  |  2024  |  12.0
+41  |  41  |  41  |  ABC-1040  |  Multas  |  Conversão proibida  |  11  |  4  |  2024  |  350.0
+42  |  42  |  42  |  ABC-1041  |  Estacionamento  |  Aeroporto  |  13  |  4  |  2024  |  60.0
+43  |  43  |  43  |  ABC-1045  |  Seguro  |  Seguro premium  |  15  |  4  |  2024  |  1600.0
+44  |  44  |  44  |  ABC-1045  |  Seguro  |  Seguro premium  |  16  |  4  |  2024  |  1600.0
+45  |  45  |  45  |  ABC-1048  |  Estacionamento  |  Garagem mensal  |  18  |  4  |  2024  |  300.0
+46  |  46  |  46  |  ABC-1048  |  Estacionamento  |  Garagem mensal  |  19  |  4  |  2024  |  300.0
+47  |  47  |  47  |  ABC-1050  |  Combustível  |  Gasolina comum  |  20  |  4  |  2024  |  220.0
+48  |  48  |  48  |  ABC-1050  |  Combustível  |  Gasolina comum  |  21  |  4  |  2024  |  210.0
+49  |  49  |  49  |  ABC-1001  |  Combustível  |  Abastecimento  |  25  |  4  |  2024  |  190.0
+50  |  50  |  50  |  ABC-1002  |  Manutenção  |  Troca de óleo  |  26  |  4  |  2024  |  210.0
+51  |  2  |  51  |  ABC-1002  |  IPVA  |  IPVA do Ano  |  7  |  12  |  2025  |  80.0
+52  |  3  |  52  |  ABC-1003  |  Multas  |  Conversão proibida  |  11  |  10  |  2025  |  250.0
+53  |  52  |  53  |  ABC-1052  |  Pedágio  |  Pedágio  |  8  |  12  |  2025  |  70.0
+54  |  52  |  54  |  ABC-1052  |  Seguro  |  Seguro  |  2  |  12  |  2025  |  1200.0
+55  |  52  |  55  |  ABC-1052  |  Multas  |  Multa  |  8  |  12  |  2025  |  123.0
+56  |  52  |  56  |  ABC-1052  |  Multas  |  Multa  |  8  |  12  |  2025  |  322.0
